@@ -28,10 +28,11 @@
 
 
 ## 📓 About
-Apple website with interactive Iphone Model using React, Webgi(WebGL based), Vite & GSAP. This project was inspired by <a href="https://www.freecodecamp.org/" target="_blank"> freecodecamp.org</a>'s Youtube <a href="https://www.youtube.com/watch?v=IyBhFma4H1A&ab_channel=freeCodeCamp.org" target="_blank">video.
+Apple website with interactive 3D Model using React, WebGi(built on three.js), Vite & GSAP. This project was inspired by the <a href="https://www.youtube.com/watch?v=IyBhFma4H1A&ab_channel=freeCodeCamp.org" target="_blank">content</a> provided by<a href="https://www.freecodecamp.org/" target="_blank"> freecodecamp.org</a>
 
 ## :star: Features
-- [x] Interactive 3-D Model
+- [x] Interactive 3D Model(iPhone)
+- [ ] ...Adding more models soon
 
 <br>
  <h2>:key: Take a look </h2>  <a href='https://appleinteract.netlify.app/'>https://appleinteract.netlify.app/</a>
