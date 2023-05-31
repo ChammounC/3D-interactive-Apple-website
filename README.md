@@ -18,9 +18,10 @@
 
 # :computer: Demonstration of the application
 
-<p align="center">
-  <img src="./src/assets/images/apple-interact(GIF).gif" width="1400px"/>
-</p>
+<!-- <p align="center"> -->
+![apple-interact(GIF)](https://github.com/ChammounC/3D-interactive-Apple-website/assets/43007452/d464f984-7792-4b92-805e-cb94d56522d2)
+<!--   <img src="" width="1400px"/> -->
+<!-- </p> -->
 
 <br>
 
